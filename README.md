@@ -28,7 +28,7 @@
     <a href = "mailto: work.joaovitordeoliveirasilva79@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "[https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/](https://www.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-silva-5664042ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://youtube.com/@joaovitordeoliveira5614?si=f7P2KrXRfBD4vz04">
