@@ -3,12 +3,6 @@
 - 🌱 Estudando Java/Python
 - 😄 Pronouns: ele/ele
 - 👨‍💻 Estudante de Ti
-
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vitors4/?next=%2F)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
-
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvdev21&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -37,7 +31,7 @@
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+    <a href = "https://youtube.com/@joaovitordeoliveira5614?si=f7P2KrXRfBD4vz04">
       <img width="35" src="youtube.svg">
     </a>
     <a href = "https://www.instagram.com/_vitors4/">
