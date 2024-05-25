@@ -5,6 +5,11 @@
 - 👨‍💻 Estudante de Ti
 
  
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvdev21&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvdev21&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -34,8 +39,7 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/Jvdev21/Jvdev21/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Jvdev21/Jvdev21/blob/output/github-contribution-grid-snake.svg)
 
 
 
